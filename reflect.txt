@@ -1,0 +1,3 @@
+How to run code in Visual Studio(VS) and How to run a C program in a Visual Studio Code.
+I have learnt to put the sign {  for start programming and  } for the end of programming.
+I've used command printf. 
